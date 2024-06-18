@@ -11,10 +11,14 @@ The main idea is to use a Cauchy distribution to generate random rates of return
 To run this project, you need Python 3.x and the following libraries:
 - numpy
 - numba
+- matplotlib
+- scikit-learn
+- scipy
+- finance-datareader
 
 You can install the required libraries using pip:
 ```bash
-pip install numpy numba
+pip install -r requirements.txt
 ```
 
 ## Example

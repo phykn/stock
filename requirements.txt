@@ -1,0 +1,6 @@
+numpy
+numba
+matplotlib
+scikit-learn
+scipy
+finance-datareader
